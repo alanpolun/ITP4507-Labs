@@ -1,10 +1,4 @@
-# IT114105 Labs
-
-### GitHub Codespaces
-Follow these steps for the first time to open this Lab in a Codespace:
-1. Click the **Code** drop-down menu.
-2. Click on the **Codespaces** tab.
-3. Click **Create codespace on main** or click the **+** button on the left hand side of **Codespaces**.
+# IT114105 ITP4507 Lab01
 
 ### Submit your Labs
 1. On the right hand side of Codespaces, click the Git Branch button and then choose **Commit and Push"
